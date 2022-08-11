@@ -41,7 +41,7 @@ class App(Tk):
     def __init__(self):
         super().__init__()
 
-        # Disable window resizing
+        # Configure Window
         self.resizable(False, False)
         self.title("Typing Speed")
         icon = resource_path("favicon.ico")
