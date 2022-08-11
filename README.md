@@ -16,7 +16,7 @@ Simply download the executable, double click, and start typing! Or you could alw
 
 This program was built and packaged using the following :
 
-* [Python](https://www.python.org/downloads/release/python-3100/): Version 3.10.6 
+* [Python](https://www.python.org/downloads/release/python-3106/): Version 3.10.6 
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): Version 8.6.10
 * [tkstylesheet](https://pypi.org/project/tkstylesheet/): Version 0.0.1b0
 * [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/): Version 2.22.0
