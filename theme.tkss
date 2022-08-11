@@ -1,0 +1,22 @@
+Tk{
+    background: "#44444C";
+}
+
+Label{
+    foreground: "white";
+    background: "#44444C";
+}
+
+Button{
+    background: "#8C8C8C";
+}
+
+Text{
+    foreground: "#000000";
+    background: "white";
+}
+
+Entry{
+    foreground: "#000000";
+    background: "white";
+}
