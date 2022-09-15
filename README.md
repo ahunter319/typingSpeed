@@ -24,7 +24,3 @@ This program was built and packaged using the following :
 A big thanks to all the creators, maintainers, and documenters of these technologies!
 
 ***
-
-
-Built by Alyssa Hunter, 2022. Questions/problems/complaints? Find me on [GitHub](https://github.com/ahunter319)!
-
